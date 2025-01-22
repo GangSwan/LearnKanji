@@ -1,0 +1,497 @@
+[
+    {
+        "kanji": "兄",
+        "reading": "あに / けい",
+        "meaning": "older brother"
+    },
+    {
+        "kanji": "姉",
+        "reading": "あね / し",
+        "meaning": "older sister"
+    },
+    {
+        "kanji": "弟",
+        "reading": "おとうと / てい",
+        "meaning": "younger brother"
+    },
+    {
+        "kanji": "妹",
+        "reading": "いもうと / まい",
+        "meaning": "younger sister"
+    },
+    {
+        "kanji": "族",
+        "reading": "ぞく",
+        "meaning": "family"
+    },
+    {
+        "kanji": "親",
+        "reading": "おや / しん",
+        "meaning": "parent"
+    },
+    {
+        "kanji": "主",
+        "reading": "しゅ / ぬし",
+        "meaning": "master/main"
+    },
+    {
+        "kanji": "夫",
+        "reading": "おっと / ふ",
+        "meaning": "husband"
+    },
+    {
+        "kanji": "妻",
+        "reading": "つま / さい",
+        "meaning": "wife"
+    },
+    {
+        "kanji": "自",
+        "reading": "じ",
+        "meaning": "self"
+    },
+    {
+        "kanji": "己",
+        "reading": "こ",
+        "meaning": "oneself"
+    },
+    {
+        "kanji": "身",
+        "reading": "み / しん",
+        "meaning": "body"
+    },
+    {
+        "kanji": "者",
+        "reading": "もの / しゃ",
+        "meaning": "person"
+    },
+    {
+        "kanji": "民",
+        "reading": "たみ / みん",
+        "meaning": "people"
+    },
+    {
+        "kanji": "代",
+        "reading": "だい / かわる",
+        "meaning": "replace"
+    },
+    {
+        "kanji": "以",
+        "reading": "い",
+        "meaning": "by means of"
+    },
+    {
+        "kanji": "内",
+        "reading": "うち / ない",
+        "meaning": "inside"
+    },
+    {
+        "kanji": "外",
+        "reading": "そと / がい",
+        "meaning": "outside"
+    },
+    {
+        "kanji": "社",
+        "reading": "しゃ",
+        "meaning": "company/shrine"
+    },
+    {
+        "kanji": "館",
+        "reading": "かん / やかた",
+        "meaning": "building"
+    },
+    {
+        "kanji": "堂",
+        "reading": "どう",
+        "meaning": "hall"
+    },
+    {
+        "kanji": "店",
+        "reading": "みせ / てん",
+        "meaning": "shop"
+    },
+    {
+        "kanji": "屋",
+        "reading": "や / おく",
+        "meaning": "shop/roof"
+    },
+    {
+        "kanji": "工",
+        "reading": "こう",
+        "meaning": "construction"
+    },
+    {
+        "kanji": "場",
+        "reading": "ば / じょう",
+        "meaning": "place"
+    },
+    {
+        "kanji": "地",
+        "reading": "ち / じ",
+        "meaning": "ground"
+    },
+    {
+        "kanji": "鉄",
+        "reading": "てつ",
+        "meaning": "iron"
+    },
+    {
+        "kanji": "住",
+        "reading": "すむ / じゅう",
+        "meaning": "live"
+    },
+    {
+        "kanji": "所",
+        "reading": "ところ / しょ",
+        "meaning": "place"
+    },
+    {
+        "kanji": "都",
+        "reading": "と / みやこ",
+        "meaning": "city"
+    },
+    {
+        "kanji": "府",
+        "reading": "ふ",
+        "meaning": "prefecture"
+    },
+    {
+        "kanji": "県",
+        "reading": "けん",
+        "meaning": "prefecture"
+    },
+    {
+        "kanji": "京",
+        "reading": "きょう",
+        "meaning": "capital"
+    },
+    {
+        "kanji": "風",
+        "reading": "かぜ / ふう",
+        "meaning": "wind"
+    },
+    {
+        "kanji": "空",
+        "reading": "そら / くう",
+        "meaning": "sky"
+    },
+    {
+        "kanji": "星",
+        "reading": "ほし / せい",
+        "meaning": "star"
+    },
+    {
+        "kanji": "雲",
+        "reading": "くも / うん",
+        "meaning": "cloud"
+    },
+    {
+        "kanji": "雨",
+        "reading": "あめ / う",
+        "meaning": "rain"
+    },
+    {
+        "kanji": "雪",
+        "reading": "ゆき / せつ",
+        "meaning": "snow"
+    },
+    {
+        "kanji": "暑",
+        "reading": "あつ / しょ",
+        "meaning": "hot (weather)"
+    },
+    {
+        "kanji": "寒",
+        "reading": "さむい / かん",
+        "meaning": "cold"
+    },
+    {
+        "kanji": "軽",
+        "reading": "かるい / けい",
+        "meaning": "light (weight)"
+    },
+    {
+        "kanji": "重",
+        "reading": "おもい / じゅう",
+        "meaning": "heavy"
+    },
+    {
+        "kanji": "早",
+        "reading": "はや / そう",
+        "meaning": "early"
+    },
+    {
+        "kanji": "近",
+        "reading": "ちかい / きん",
+        "meaning": "near"
+    },
+    {
+        "kanji": "遠",
+        "reading": "とおい / えん",
+        "meaning": "far"
+    },
+    {
+        "kanji": "通",
+        "reading": "とう / つう",
+        "meaning": "pass through"
+    },
+    {
+        "kanji": "走",
+        "reading": "はしる / そう",
+        "meaning": "run"
+    },
+    {
+        "kanji": "動",
+        "reading": "うごく / どう",
+        "meaning": "move"
+    },
+    {
+        "kanji": "働",
+        "reading": "はたらく / どう",
+        "meaning": "work"
+    },
+    {
+        "kanji": "勉",
+        "reading": "べん",
+        "meaning": "effort"
+    },
+    {
+        "kanji": "強",
+        "reading": "つよい / きょう",
+        "meaning": "strong"
+    },
+    {
+        "kanji": "弱",
+        "reading": "よわい / じゃく",
+        "meaning": "weak"
+    },
+    {
+        "kanji": "広",
+        "reading": "ひろ / ごう",
+        "meaning": "wide"
+    },
+    {
+        "kanji": "長",
+        "reading": "なが / ちょう",
+        "meaning": "long"
+    },
+    {
+        "kanji": "短",
+        "reading": "みじかい / たん",
+        "meaning": "short"
+    },
+    {
+        "kanji": "明",
+        "reading": "あかるい / めい",
+        "meaning": "bright"
+    },
+    {
+        "kanji": "暗",
+        "reading": "くらい / あん",
+        "meaning": "dark"
+    },
+    {
+        "kanji": "高",
+        "reading": "たかい / こう",
+        "meaning": "high"
+    },
+    {
+        "kanji": "低",
+        "reading": "ひくい / てい",
+        "meaning": "low"
+    },
+    {
+        "kanji": "正",
+        "reading": "ただしい / しょう",
+        "meaning": "correct"
+    },
+    {
+        "kanji": "立",
+        "reading": "たつ / りつ",
+        "meaning": "stand"
+    },
+    {
+        "kanji": "座",
+        "reading": "すわる / ざ",
+        "meaning": "sit"
+    },
+    {
+        "kanji": "使",
+        "reading": "つかう / し",
+        "meaning": "use"
+    },
+    {
+        "kanji": "作",
+        "reading": "つくる / さく",
+        "meaning": "make"
+    },
+    {
+        "kanji": "始",
+        "reading": "はじめる / し",
+        "meaning": "begin"
+    },
+    {
+        "kanji": "終",
+        "reading": "おわる / しゅう",
+        "meaning": "end"
+    },
+    {
+        "kanji": "開",
+        "reading": "ひらく / かい",
+        "meaning": "open"
+    },
+    {
+        "kanji": "閉",
+        "reading": "しめる / へい",
+        "meaning": "close"
+    },
+    {
+        "kanji": "入",
+        "reading": "はいる / にゅう",
+        "meaning": "enter"
+    },
+    {
+        "kanji": "出",
+        "reading": "でる / しゅつ",
+        "meaning": "exit"
+    },
+    {
+        "kanji": "売",
+        "reading": "うる / ばい",
+        "meaning": "sell"
+    },
+    {
+        "kanji": "買",
+        "reading": "かう / ばい",
+        "meaning": "buy"
+    },
+    {
+        "kanji": "送",
+        "reading": "おくる / そう",
+        "meaning": "send"
+    },
+    {
+        "kanji": "持",
+        "reading": "もつ / じ",
+        "meaning": "hold"
+    },
+    {
+        "kanji": "待",
+        "reading": "まつ / たい",
+        "meaning": "wait"
+    },
+    {
+        "kanji": "借",
+        "reading": "かりる / しゃく",
+        "meaning": "borrow"
+    },
+    {
+        "kanji": "返",
+        "reading": "かえす / へん",
+        "meaning": "return"
+    },
+    {
+        "kanji": "会",
+        "reading": "あう / かい",
+        "meaning": "meet"
+    },
+    {
+        "kanji": "住",
+        "reading": "すむ / じゅう",
+        "meaning": "reside"
+    },
+    {
+        "kanji": "知",
+        "reading": "しる / ち",
+        "meaning": "know"
+    },
+    {
+        "kanji": "思",
+        "reading": "おもう / し",
+        "meaning": "think"
+    },
+    {
+        "kanji": "言",
+        "reading": "いう / げん",
+        "meaning": "say"
+    },
+    {
+        "kanji": "話",
+        "reading": "はなす / わ",
+        "meaning": "talk"
+    },
+    {
+        "kanji": "立",
+        "reading": "たつ / りつ",
+        "meaning": "stand"
+    },
+    {
+        "kanji": "走",
+        "reading": "はしる / そう",
+        "meaning": "run"
+    },
+    {
+        "kanji": "歩",
+        "reading": "あるく / ほ",
+        "meaning": "walk"
+    },
+    {
+        "kanji": "乗",
+        "reading": "のる / じょう",
+        "meaning": "ride"
+    },
+    {
+        "kanji": "降",
+        "reading": "おりる / こう",
+        "meaning": "descend"
+    },
+    {
+        "kanji": "着",
+        "reading": "きます / ちゃく",
+        "meaning": "arrive"
+    },
+    {
+        "kanji": "起",
+        "reading": "おきる / き",
+        "meaning": "wake up"
+    },
+    {
+        "kanji": "寝",
+        "reading": "ねる / しん",
+        "meaning": "sleep"
+    },
+    {
+        "kanji": "洗",
+        "reading": "あらう / せん",
+        "meaning": "wash"
+    },
+    {
+        "kanji": "勉",
+        "reading": "べん",
+        "meaning": "study"
+    },
+    {
+        "kanji": "習",
+        "reading": "ならう / しゅう",
+        "meaning": "learn"
+    },
+    {
+        "kanji": "予",
+        "reading": "よ",
+        "meaning": "beforehand"
+    },
+    {
+        "kanji": "定",
+        "reading": "てい / じょう",
+        "meaning": "fix"
+    },
+    {
+        "kanji": "計",
+        "reading": "けい / はかる",
+        "meaning": "plan"
+    },
+    {
+        "kanji": "料",
+        "reading": "りょう",
+        "meaning": "fee/material"
+    }
+]

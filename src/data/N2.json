@@ -1,0 +1,54 @@
+{
+    "kanji": [
+        {
+            "character": "認",
+            "reading": "にん",
+            "meaning": "recognize, acknowledge"
+        },
+        {
+            "character": "解",
+            "reading": "かい",
+            "meaning": "solve, untie"
+        },
+        {
+            "character": "意",
+            "reading": "い",
+            "meaning": "idea, mind"
+        },
+        {
+            "character": "識",
+            "reading": "しき",
+            "meaning": "knowledge, wisdom"
+        },
+        {
+            "character": "情",
+            "reading": "じょう",
+            "meaning": "feelings, emotion"
+        },
+        {
+            "character": "報",
+            "reading": "ほう",
+            "meaning": "report, news"
+        },
+        {
+            "character": "約",
+            "reading": "やく",
+            "meaning": "promise, approximately"
+        },
+        {
+            "character": "選",
+            "reading": "せん",
+            "meaning": "choose, select"
+        },
+        {
+            "character": "適",
+            "reading": "てき",
+            "meaning": "suitable, appropriate"
+        },
+        {
+            "character": "確",
+            "reading": "かく",
+            "meaning": "certain, sure"
+        }
+    ]
+}

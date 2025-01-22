@@ -1,0 +1,54 @@
+{
+  "kanji": [
+    {
+      "character": "漢",
+      "reading": "かん",
+      "meaning": "Chinese, Han"
+    },
+    {
+      "character": "字",
+      "reading": "じ",
+      "meaning": "character, letter"
+    },
+    {
+      "character": "語",
+      "reading": "ご",
+      "meaning": "language, word"
+    },
+    {
+      "character": "学",
+      "reading": "がく",
+      "meaning": "study, learning"
+    },
+    {
+      "character": "習",
+      "reading": "しゅう",
+      "meaning": "learn, practice"
+    },
+    {
+      "character": "問",
+      "reading": "もん",
+      "meaning": "question, ask"
+    },
+    {
+      "character": "答",
+      "reading": "とう",
+      "meaning": "answer, reply"
+    },
+    {
+      "character": "知",
+      "reading": "ち",
+      "meaning": "know, wisdom"
+    },
+    {
+      "character": "思",
+      "reading": "し",
+      "meaning": "think, consider"
+    },
+    {
+      "character": "行",
+      "reading": "こう",
+      "meaning": "go, conduct"
+    }
+  ]
+}

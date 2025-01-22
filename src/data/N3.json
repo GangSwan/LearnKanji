@@ -1,0 +1,54 @@
+{
+  "kanji": [
+    {
+      "character": "日",
+      "reading": "にち",
+      "meaning": "day, sun"
+    },
+    {
+      "character": "月",
+      "reading": "つき",
+      "meaning": "month, moon"
+    },
+    {
+      "character": "火",
+      "reading": "ひ",
+      "meaning": "fire"
+    },
+    {
+      "character": "水",
+      "reading": "みず",
+      "meaning": "water"
+    },
+    {
+      "character": "木",
+      "reading": "き",
+      "meaning": "tree, wood"
+    },
+    {
+      "character": "金",
+      "reading": "きん",
+      "meaning": "gold, money"
+    },
+    {
+      "character": "土",
+      "reading": "つち",
+      "meaning": "earth, soil"
+    },
+    {
+      "character": "山",
+      "reading": "やま",
+      "meaning": "mountain"
+    },
+    {
+      "character": "川",
+      "reading": "かわ",
+      "meaning": "river"
+    },
+    {
+      "character": "田",
+      "reading": "た",
+      "meaning": "rice field"
+    }
+  ]
+}

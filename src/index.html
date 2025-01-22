@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Kanji Flashcards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            background-color: #2c2c2c;
+            margin: 0;
+            padding: 20px;
+        }
+        .menu {
+            margin-bottom: 20px;
+        }
+        .flashcard-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .flashcard {
+            width: 150px;
+            height: 200px;
+            perspective: 1000px;
+        }
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transform-style: preserve-3d;
+            transition: transform 0.6s;
+        }
+        .flashcard-inner.is-flipped {
+            transform: rotateY(180deg);
+        }
+        .flashcard-front, .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            color: white;
+        }
+        .flashcard-front {
+            background-color: #333;
+        }
+        .flashcard-back {
+            background-color: #808080;
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <label for="jlpt-level">Select JLPT Level:</label>
+        <select id="jlpt-level">
+            <option value="N5">N5</option>
+            <option value="N4">N4</option>
+        </select>
+    </div>
+    <div class="flashcard-container" id="flashcard-container">
+        <!-- Flashcards will be dynamically inserted here -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
