@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function loadFlashcards() {
         const level = jlptLevelSelect.value;
         console.log(`Selected level: ${level}`); // Debugging line
-        fetch(`src/data/${level}.json`)
+        fetch(`data/${level}.json`)
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
